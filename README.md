@@ -1,6 +1,4 @@
 # Pawn Race
-![SimulatorPhoto](https://user-images.githubusercontent.com/25799076/90334596-b61b9100-dfc6-11ea-87d9-e1dc54d79d7a.png)
-
 This is the code that was made for the AI Pawn Race competition that Imperial College London held in December 2020. It is written in Kotlin targetting the JVM. During the 5 days that I had to develop the AI, I wrote the game engine, an optimized Linear Algebra library, and a library for evolving neural network based heuristic aproximators for the game states.
 
 The anatomy of the AI is as follows:
